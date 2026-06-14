@@ -8,6 +8,10 @@
     git clone git@github.com:ayushkpai/tailwind-css.git
     ```
 
+- Install node.js
+  
+    Also documented in dotfiles
+
 - To run the project
 
     ```
